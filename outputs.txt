@@ -28,3 +28,16 @@ ANSWER: Antibodies. They are like guided missiles built to fight a specific atta
 
 QUESTION: How long does it take for intelligent cells to prepare weapons against infection?
 ANSWER: Unfortunately, this process takes several days. This gives the attacker enough time to inflict damage.
+
+
+🧮 Final Tally
+Verdict	Count
+✅ Correct	6
+⚠️ Partially correct	2
+❌ Incorrect	2
+Total answers	10
+
+📊 Accuracy Calculation
+Accuracy = (Correct + 0.5 * Partially correct) / Total answers
+Accuracy = (6 + 0.5 * 2) / 10 = 0.7
+Accuracy = 70%
