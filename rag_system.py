@@ -23,14 +23,19 @@ def main():
             print("Exiting the chat. Goodbye!")
             break
 
-        retrieved_docs = retriever.retrieve(user_input)
-        augmented_input = f"Context:\n{retrieved_docs}\n\nQuestion: {user_input}\nAnswer (keep it brief):"
-        print (augmented_input)
+        retrieved_docs = retriever.retrieve(user_input, tokenizer=tokenizer, max_tokens=7000)
+        augmented_input = (
+            f"INSTRUCTION: Use ONLY the following CONTEXT to answer the question.\n"
+            f"CONTEXT:\n{retrieved_docs}\n\n"
+            f"QUESTION: {user_input}\n"
+            f"ANSWER:"
+        )
+        # print (augmented_input)
         inputs = tokenizer(
             augmented_input,
             return_tensors="pt",
             truncation=True,
-            max_length=7000,     # Or less if you want to leave room for output
+            max_length=8192,     # Or less if you want to leave room for output
         ).to("cuda")
         
         # This is where we call our improved generation function

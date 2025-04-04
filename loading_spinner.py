@@ -29,7 +29,7 @@ def generate_response(model, tokenizer, inputs):
         with torch.no_grad():
             outputs = model.generate(
                 **inputs,
-                max_length=512,
+                max_new_tokens=150,
                 do_sample=True,
                 temperature=0.7,
                 pad_token_id=tokenizer.eos_token_id

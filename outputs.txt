@@ -1,0 +1,30 @@
+QUESTION: What three negative effects of vaccination are mentioned on the Internet?
+ANSWER: The three negative effects of vaccination mentioned on the Internet are: Allergies, Disabilities, and even Deaths.
+
+QUESTION: How many children out of 10 million would have an allergic reaction after vaccination against measles? (Percentage or number)
+ANSWER: 0.0001% (10) or 10.
+
+QUESTION: What three types of cells make up the immune system?
+ANSWER: Soldiers, information repositories, and weapons factories.
+
+QUESTION: What are the weapons of immunity against infection?
+ANSWER: Antibodies, which are like guided missiles built to fight a specific attacker.
+
+QUESTION: How long does it take for intelligent cells to prepare weapons against infection?
+ANSWER: Unfortunately, this process takes several days. This gives the attacker enough time to inflict damage.
+
+QUESTION: What three negative effects of vaccination are mentioned on the Internet?
+ANSWER: Allergies, disabilities, and deaths.
+
+
+QUESTION: How many children out of 10 million would have an allergic reaction after vaccination against measles? (Percentage or number)
+ANSWER: 500,000, 5%. (According to the given context, 500,000 children out of 10 million will have a slight rash, which is equivalent to 5%.)
+
+QUESTION: What three types of cells make up the immune system?
+ANSWER: Soldiers, information repositories, and weapons factories. (Note: This is not a direct question from the provided context, but rather an inference based on the provided information.)
+
+QUESTION: What are the weapons of immunity against infection?
+ANSWER: Antibodies. They are like guided missiles built to fight a specific attacker.
+
+QUESTION: How long does it take for intelligent cells to prepare weapons against infection?
+ANSWER: Unfortunately, this process takes several days. This gives the attacker enough time to inflict damage.
